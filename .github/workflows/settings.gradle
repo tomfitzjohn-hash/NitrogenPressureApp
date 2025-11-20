@@ -1,0 +1,2 @@
+rootProject.name = "NitrogenPressureApp"
+include ':app'
